@@ -3,7 +3,7 @@ University of Pittsburgh ADVANCED DIGITAL DESIGN 2024 Spring
 
 ## Content
 1. [Lab 1: Full Adder](#lab-1-full-adder)
-2. [Lab 2: Arithmetic Logic Unit (ALU) Design](#lab-2-arithmetical-logic-unit-(alu)-design)
+2. [Lab 2: Arithmetic Logic Unit (ALU) Design](#lab-2-arithmetic-logic-unit-alu-design)
 ## Lab 1: Full Adder
 <p align="center"><img width="436" alt="image" src="https://github.com/GyeonggeunJung/ECE1195/assets/113646015/0619b2fb-ca25-43f3-b257-fa425ac6324c"></p>
 
